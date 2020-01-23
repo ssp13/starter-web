@@ -9,4 +9,8 @@ This is a simple website project for showing how to use Git and Github together.
 
 ## How To Contribute
 
+### Copyright
+
+2020 Git Training
+
 Sample website with plenty of files for demos
